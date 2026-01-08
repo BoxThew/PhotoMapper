@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/PhotoMapper/__init__.py
+src/PhotoMapper/__main__.py
+src/PhotoMapper.egg-info/PKG-INFO
+src/PhotoMapper.egg-info/SOURCES.txt
+src/PhotoMapper.egg-info/dependency_links.txt
+src/PhotoMapper.egg-info/entry_points.txt
+src/PhotoMapper.egg-info/requires.txt
+src/PhotoMapper.egg-info/top_level.txt
